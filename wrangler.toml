@@ -7,7 +7,4 @@ mode = "smart"
 
 [[kv_namespaces]]
 binding = "SUB_CACHE"
-id = ""kv_namespaces": [{
-                    "binding": "KV_BINDING",
-                    "id": "70fc310c97834aac82fcb5c7b0e5bc25"
-                 }]"
+id = "70fc310c97834aac82fcb5c7b0e5bc25"
