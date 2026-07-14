@@ -1,0 +1,10 @@
+name = "mysub-converter1"
+main = "src/index.ts"
+compatibility_date = "2024-04-01"
+
+[placement]
+mode = "smart"
+
+[[kv_namespaces]]
+binding = "SUB_CACHE"
+id = "ceb616e6629d477ca4a4610a27ee338d"
