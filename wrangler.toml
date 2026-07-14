@@ -1,4 +1,4 @@
-name = "my-sub-converter"
+name = "mysub-converter1"
 main = "src/index.ts"
 compatibility_date = "2024-04-01"
 
