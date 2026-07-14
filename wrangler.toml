@@ -1,4 +1,4 @@
-name = "mysub-converter1"
+name = "my-sub-converter"
 main = "src/index.ts"
 compatibility_date = "2024-04-01"
 
@@ -7,7 +7,4 @@ mode = "smart"
 
 [[kv_namespaces]]
 binding = "SUB_CACHE"
-id = ""kv_namespaces": [{
-                    "binding": "KV_BINDING",
-                    "id": "70fc310c97834aac82fcb5c7b0e5bc25"
-                 }]"
+id = "KV_ID_PLACEHOLDER"
